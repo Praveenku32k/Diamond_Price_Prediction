@@ -18,5 +18,7 @@ logging.basicConfig(level=logging.INFO,
 )
 # TIME , LINENUMBER , NAME, ....FOR ABOVE CELL
 
+# if we want to test it standalone code  ....., then write the below code ..
+
 if __name__ == '__main__':
     logging.info("here again i am tesitng")
