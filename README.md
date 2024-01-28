@@ -75,3 +75,8 @@ STEP 4: Use context manager of mlflow to start run and then log metrics, params 
 ```
 
 ![gitimage - Copy](https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/1d0c35e8-00a2-4ecb-a0b3-57b30e5a15d8)
+
+```
+Output:
+```
+<img width="547" alt="output - Copy" src="https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/79bbddaf-f3a9-4ce7-b7a8-2002b18bcc1f">
