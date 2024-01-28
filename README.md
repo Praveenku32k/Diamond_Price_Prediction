@@ -1,8 +1,8 @@
 # Diamond_Price_Prediction
 
-# this is my end to end project
+### This is my end to end project
 
-# first initialize the git
+#### First initialize the git
 
 ```
 git init
@@ -74,3 +74,4 @@ STEP 4: Use context manager of mlflow to start run and then log metrics, params 
 
 ```
 
+![gitimage - Copy](https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/1d0c35e8-00a2-4ecb-a0b3-57b30e5a15d8)
