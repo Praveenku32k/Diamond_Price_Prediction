@@ -73,4 +73,5 @@ STEP 3: Set remote URI
 STEP 4: Use context manager of mlflow to start run and then log metrics, params and model
 
 ```
-![Transformer](https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/1fe9eb0b-374c-4d52-9cb1-f96c791781c3)
+
+![gitimage - Copy](https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/1d0c35e8-00a2-4ecb-a0b3-57b30e5a15d8)
