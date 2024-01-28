@@ -12,6 +12,9 @@ import sys
 from src.DimondPricePrediction.logger import logging
 from src.DimondPricePrediction.exception import customexception
 import pandas as pd
+
+
+
 class TrainingPipeline:
     def start_data_ingestion(self):
         try:
