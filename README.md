@@ -82,7 +82,4 @@ Output:
 <img width="547" alt="output - Copy" src="https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/79bbddaf-f3a9-4ce7-b7a8-2002b18bcc1f">
 
 
-
-```
 <img width="456" alt="output_diamond" src="https://github.com/Praveenku32k/Diamond_Price_Prediction/assets/68581081/0dca6a86-2f8b-4139-8506-6bf89a5101ee">
-```
